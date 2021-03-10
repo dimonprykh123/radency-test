@@ -1,0 +1,22 @@
+.btn{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 1px;
+    border-color: #799166;
+    min-height: 50px;
+    min-width: 200px;
+    background-color: #92C47D;
+    color:#E9FFDB;
+}
+
+.btnContainer{
+    float: right;
+    margin-top: 100px;
+    margin-right: 10px;
+    display: inline-flex;
+    flex-flow: row wrap;
+}

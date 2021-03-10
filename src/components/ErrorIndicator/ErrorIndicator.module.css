@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 80%;
+    background-color: #F4CCCC;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #A65C66;
+    height: 100px;
+    font-size: 30px;
+
+}

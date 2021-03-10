@@ -1,0 +1,11 @@
+.container {
+    margin: 100px 20px;
+    text-align: center;
+    max-height: 50vh;
+    overflow: scroll;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.txt{
+    font-size: 30px;
+}

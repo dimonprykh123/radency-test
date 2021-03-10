@@ -1,0 +1,11 @@
+table{
+    border-collapse: collapse;
+}
+td,th{
+    padding: 5px;
+    border: 2px solid #2A2A2A;
+}
+thead:first-child{
+    background-color: #CFE2F3;
+}
+
